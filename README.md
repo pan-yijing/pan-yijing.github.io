@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# HI! This is pan.
 
-You can use the [editor on GitHub](https://github.com/pan-yijing/pan-yijing.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*this page is all about me. Maybe boring things but have tried my best*
+_also it is my homework! Hope u enjoy!_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## basic introduction
 
-### Markdown
+- Chinese girl
+- already taken:)
+- graduated from Beijing Foregin Studies University, majored in Russian Language.
+- **привет!и меня зовут Оля.**
+- now major in tourism in Hokkaido Uni.
+- say more Japanese than Russian. _I am really sorry for that I am barely able to use Russian now._
+- live in Sapporo with Lops(tubao) and golden hamster(shubao).
+_I wanted to add pic but haven't figure it out yet._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## what am I interested in
 
-```markdown
-Syntax highlighted code block
+1. Anime & Animated film
+- favorite one: **SPIRITED AWAY**
+- and this masterpiece came to life on stage in 2022!(https://www.tohostage.com/spirited_away/)
+- __check it through the link above!__
 
-# Header 1
-## Header 2
-### Header 3
+2. Camp
+- tried once this spring and fell in love with it!
+- also got own velarium! forget about the price, all good!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pan-yijing/pan-yijing.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## sth about my reasearch 
+__keywords:resident participation; heritage tourism__
+### stuggling for essay every single day!
